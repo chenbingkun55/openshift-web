@@ -1,0 +1,14 @@
+/libs/*/bin/
+doc/rapidjson
+build/
+demos/
+distrib/
+samples/
+tests/
+*\.un~
+*\.bak
+*\.tmp
+*\.pdb
+*\.lib
+*\.so
+*\.a
